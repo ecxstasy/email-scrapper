@@ -1,2 +1,1 @@
-# email-scrapper
-emailscraper.py
+# emailscraper.py
