@@ -3,8 +3,6 @@ emailscraper ეძებს ელფოსტებს, რადგან მ
 ის იყენებს Python-ს emailscraper-ის საქმეების გასაკეთებლად. ის აგროვებს, ინახავს და ამუშავებს ელფოსტებს.
 
 # Usage:
-. python3 emailscraper.py
-
-. enter urls: (url)
-
+python3 emailscraper.py<br>
+enter urls: (url)<br>
 ex: enter urls: https://pornhub.com
